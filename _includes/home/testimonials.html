@@ -1,0 +1,29 @@
+<section class="testimonials p-basic" id="testimonials">
+	<div class="section-wrap mw-1000 m-auto">
+		<h3 class="title m-auto">
+			Hey, we like tracker!
+		</h3>
+
+		<div class="testimonials-wrap mt-4">
+
+			{% for t in site.data.testimonials %}
+
+			<article class="testimonial">
+				<div class="thumbnail" style="background-image: url('/assets/images/{{t.img}}')"></div>
+				<div class="text-wrap">
+					<div class="meta">
+						<strong>{{t.name}}</strong> <aside>{{t.title}}</aside>
+					</div>
+					<p>
+						{{t.quote}}
+					</p>
+				</div>
+			</article>
+
+			{% endfor %}
+
+
+		</div>
+
+	</div>
+</section>

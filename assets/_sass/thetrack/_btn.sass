@@ -1,0 +1,21 @@
+.btn
+  display: inline-block
+  white-space: nowrap
+  padding: 1rem 1.5rem
+  text-decoration: none
+  outline: none
+  box-shadow: 0 3px 6px rgba(0,0,0,0.06)
+  border-radius: 2rem
+  font-weight: 500
+  transition: .3s
+
+  &:hover
+    transform: translateY(-2px)
+    box-shadow: 0 3px 12px rgba(0,0,0,0.09)
+
+  &.btn-primary
+    background: $brand-color
+    color: $text-on-brand-color
+  &.btn-secondary
+      background: white
+      color: $text-color

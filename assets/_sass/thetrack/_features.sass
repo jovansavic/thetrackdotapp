@@ -1,0 +1,24 @@
+.features
+  position: relative
+  width: 100%
+  box-sizing: border-box
+  .shape
+    position: absolute
+    right: 0
+    top: 0
+    z-index: -1
+    width: 110%
+
+  .section-wrap
+    justify-content: space-between
+    align-items: flex-start
+    flex-wrap: wrap
+    .text
+      @media (max-width: $medium-bp)
+        width: 100%
+
+  .features-image
+    width: 45%
+    @media (max-width: $medium-bp)
+      width: 100%
+

@@ -1,0 +1,52 @@
+.testimonials-wrap
+  display: flex
+  flex-wrap: wrap
+  justify-content: space-between
+.testimonial
+  background: white
+  box-shadow: 0 0 36px rgba(#50E3C2, .06)
+  display: flex
+  padding: 1rem
+  border-radius: .5rem
+  margin: .5rem
+  flex-shrink: 1
+  @media (min-width: $medium-bp)
+    &:nth-child(2)
+      width: 50%
+    &:nth-child(3)
+      width: 50%
+    &:nth-child(1)
+      width: 40%
+    &:nth-child(4)
+      width: 40%
+  @media (max-width: $medium-bp)
+    width: 100%
+
+  .thumbnail
+    flex-shrink: 0
+    width: 5rem
+    height: 5rem
+    background-color: $grey-color-light
+    background-repeat: no-repeat
+    background-size: cover
+    border-radius: 5rem
+    margin-right: 1rem
+    @media (max-width: $medium-bp)
+      width: 3rem
+      height: 3rem
+
+  .meta
+    display: flex
+    margin-bottom: .4rem
+    strong, aside
+      margin: 0
+    strong
+      font-weight: 400
+      color: $brand-color
+    aside
+      font-weight: 400
+      margin-left: .5rem
+      color: $grey-color
+
+  p
+    margin: 0

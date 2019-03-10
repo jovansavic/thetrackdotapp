@@ -1,0 +1,59 @@
+.hero-section
+  width: 100%
+  //background-image: url("/assets/images/hero-shape.svg")
+  background-size: contain
+  background-repeat: no-repeat
+  background-position: right
+  position: relative
+  box-sizing: border-box
+  @media (min-width: $medium-bp)
+    height: calc(100vh - 80px)
+    padding-top: 0
+    padding-bottom: 0
+
+
+  svg
+    position: absolute
+    top: 0
+    right: 0
+    margin: 0
+
+.hero-wrap
+  max-width: 1000px
+  margin: auto
+  display: flex
+  justify-content: space-between
+  align-items: center
+  @media (max-width: $medium-bp)
+    flex-direction: column
+
+.hero-caption
+  color: $brand-color
+  font-size: 12px
+  font-family: $secondary-font
+  margin: 0
+  font-weight: 500
+.hero-title
+  font-size: 3rem
+  font-weight: 700
+  color: $title-color
+  margin: 0
+  @media (min-width: $medium-bp)
+    max-width: 400px
+.hero-description
+  margin: 0
+  font-weight: 400
+  font-size: 1rem
+  @media (min-width: $medium-bp)
+    max-width: 360px
+
+
+.hero-image
+  margin-top: 2rem
+  max-width: 100%
+  box-shadow: 0 3px 36px rgba($brand-color, .2)
+  border-radius: 12px
+  @media (min-width: $medium-bp)
+    max-height: 85vh
+    max-width: 360px
+

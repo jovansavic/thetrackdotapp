@@ -1,0 +1,28 @@
+.what
+  //background: url("/assets/images/what-img.png")
+  background-size: contain
+  background-repeat: no-repeat
+  width: 100%
+  position: relative
+  box-sizing: border-box
+
+  .what-image
+    //left: 0
+    //position: absolute
+    width: 40%
+    z-index: -1
+    @media (max-width: $medium-bp)
+      width: 100%
+  .section-wrap
+    display: flex
+    justify-content: space-between
+    align-items: flex-start
+    flex-wrap: wrap-reverse
+    .text
+      width: 50%
+      margin-left: auto
+      @media (max-width: $medium-bp)
+        width: 100%
+      p
+        font-size: 1.5rem
+

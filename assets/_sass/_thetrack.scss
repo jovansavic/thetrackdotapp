@@ -1,0 +1,35 @@
+$text-color:       #242424 !default;
+$background-color: #ffffff !default;
+$brand-color:      #50E3C2 !default;
+$second-color: 		#FFB222 !default;
+$text-on-brand-color: white !default;
+
+$title-color: #333333;
+
+$grey-color:       rgba(0,0,0,.4) !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+
+$primary-font: Zilla Slab, sans-serif;
+$secondary-font: Roboto, sans-serif;
+
+
+$high-bp: 1000px;
+$medium-bp: 775px;
+$small-bp: 480px;
+$tiny-bp: 360px;
+
+
+//@import "thetrack/syntax-highlighting";
+@import "thetrack/reset";
+@import "thetrack/utilities";
+@import "thetrack/text";
+@import "thetrack/form";
+@import "thetrack/btn";
+@import "thetrack/header";
+@import "thetrack/hero";
+@import "thetrack/testimonials";
+@import "thetrack/what";
+@import "thetrack/features";
+@import "thetrack/conclusion";
+@import "thetrack/cta";

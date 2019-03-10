@@ -1,0 +1,45 @@
+.site-header
+  .header-wrap
+    display: flex
+    justify-content: space-between
+    padding-left: 2rem
+    padding-right: 2rem
+    align-items: center
+    height: 80px
+
+
+  .site-nav
+    display: flex
+    align-items: center
+    a
+      text-decoration: none
+      margin-left: 1rem
+      color: $text-color
+      font-weight: 500
+      position: relative
+      &:before
+        content: ''
+        display: block
+        position: absolute
+        left: 0
+        bottom: -2px
+        width: 100%
+        height: 0
+        z-index: -1
+        background: $brand-color
+        transition: .3s
+      &:hover, &.current-page
+        &:before
+          height: 40%
+      &:first-child
+        margin-left: 0
+
+
+  .logo-link
+    text-decoration: none
+    color: $brand-color
+    display: flex
+    align-items: center
+    strong
+      font-weight: 500
+      margin-left: 1rem
