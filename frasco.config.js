@@ -37,7 +37,7 @@ module.exports = {
     src:         '_images',
     dest:        'images',
     progressive: true,
-    svgoPlugins: [{removeViewBox: false}],
+    svgoPlugins: [{removeViewBox: true}],
   },
 
   jekyll: {
@@ -55,6 +55,7 @@ module.exports = {
     dest:  'js',
     entry: [
       'bundle.js',
+      'main.js',
     ],
   },
 

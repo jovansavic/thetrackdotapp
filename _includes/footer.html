@@ -1,37 +1,18 @@
-<footer class="site-footer h-card">
+<footer class="site-footer">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
-  <div class="wrapper">
+  <div class="wrapper basic-padding mw-480 m-auto">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
-      </div>
-    </div>
+		<nav class="footer-nav">
+			<a href="/">Home</a>
+			<a href="/subscribe">Subscribe</a>
+			<a href="/donation">Donation</a>
+			<a href="/download">DOWNLOAD</a>
+		</nav>
 
   </div>
 
 </footer>
 
-<script src="{{ "/assets/js/bundle.js" | relative_url }}" type="text/javascript"></script>
+<script src="{{ "/assets/js/main.js" | relative_url }}" type="text/javascript"></script>
+<!--<script src="{{ "/assets/js/bundle.js" | relative_url }}" type="text/javascript"></script>-->

@@ -1,0 +1,42 @@
+.testimonials-section
+  width: 100%
+  padding-top: 4rem
+  padding-bottom: 4rem
+  background: linear-gradient(180deg, #39FFB3 20%, #39C0E8 100%)
+  .title
+    color: $dark-color
+    text-align: center
+    font-weight: 500
+
+
+  .wrap
+    display: flex
+    @media (max-width: $medium-screen)
+      flex-direction: column
+  .testimonial
+    margin: 1rem
+.testimonial
+  padding: 2rem
+  background: white
+  box-shadow: 0 3px 36px rgba(#5056E3, .12)
+  .quote
+    font-style: italic
+    margin-bottom: 1.5rem
+    
+  .meta
+    display: flex
+    span
+      color: #A7A7A7
+  .avatar
+    width: 3rem
+    height: 3rem
+    background: #f8f8f8
+    border-radius: 50%
+    background-position: center
+    background-size: cover
+    background-repeat: no-repeat
+    margin-right: .5rem
+  p
+    color: $dark-color
+    margin: 0
+

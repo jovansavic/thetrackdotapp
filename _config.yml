@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Frasco: Jekyll Starter Project"
-email: your-email@domain.com
+title: "The Track | Time Tracking App for Freelancers"
+email: mail@thetrack.app
 description: >- # this means to ignore newlines until "baseurl:"
-  Quick starter project for Jekyll including full setup for gulp, Sass, Autoprefixer, Bourbon/Neat/Bitters, Browserify, imagemin, Browsersync, PostCSS etc.
+  The Track is a time tracking app for freelancers. It’s easy to use the app, and it comes on multiple platforms (macOS, Windows, Ubuntu)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ixkaito
-github_username:  ixkaito
+twitter_username: thetrack.app
+github_username:  johnofficial
 
 # Build settings
 markdown: kramdown

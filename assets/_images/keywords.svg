@@ -1,0 +1,432 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="323.5" height="528.25" viewBox="0 0 323.5 528.25">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-18, .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        font-size: 25px;
+      }
+
+      .cls-10, .cls-11, .cls-15, .cls-16, .cls-4 {
+        font-family: ZillaSlab-Medium, Zilla Slab Medium;
+      }
+
+      .cls-10, .cls-11, .cls-15, .cls-16, .cls-17, .cls-4, .cls-9 {
+        font-weight: 500;
+      }
+
+      .cls-20, .cls-5, .cls-7 {
+        fill: none;
+      }
+
+      .cls-6 {
+        fill: #242424;
+      }
+
+      .cls-7 {
+        stroke: #bebebe;
+      }
+
+      .cls-10, .cls-12, .cls-8, .cls-9 {
+        fill: #363636;
+      }
+
+      .cls-10, .cls-12, .cls-14, .cls-15, .cls-8 {
+        font-size: 13px;
+      }
+
+      .cls-14, .cls-8 {
+        font-family: ZillaSlab-SemiBold, Zilla Slab SemiBold;
+        font-weight: 600;
+      }
+
+      .cls-8 {
+        opacity: 0.1;
+      }
+
+      .cls-17, .cls-9 {
+        font-size: 11px;
+        font-family: HelveticaNeue-Medium, Helvetica Neue;
+      }
+
+      .cls-11, .cls-16 {
+        fill: #bebebe;
+      }
+
+      .cls-11 {
+        font-size: 9px;
+      }
+
+      .cls-12 {
+        font-family: FontAwesome5Pro-Regular, "Font Awesome 5 Pro";
+      }
+
+      .cls-13 {
+        opacity: 0;
+      }
+
+      .cls-14, .cls-17 {
+        fill: #ff5a5a;
+      }
+
+      .cls-15, .cls-19 {
+        fill: #39d0c4;
+      }
+
+      .cls-16 {
+        font-size: 8px;
+      }
+
+      .cls-18 {
+        stroke: #39d0c4;
+      }
+
+      .cls-20 {
+        stroke: #f2f2f2;
+        stroke-miterlimit: 10;
+        stroke-width: 12px;
+      }
+
+      .cls-21 {
+        fill: #f2f2f2;
+      }
+
+      .cls-22 {
+        fill: #ff223d;
+      }
+
+      .cls-23 {
+        fill: #ffb222;
+      }
+
+      .cls-24 {
+        fill: #7ed321;
+      }
+
+      .cls-25 {
+        stroke: none;
+      }
+
+      .cls-26 {
+        filter: url(#Rectangle_3-12);
+      }
+
+      .cls-27 {
+        filter: url(#Rectangle_57-2);
+      }
+
+      .cls-28 {
+        filter: url(#Rectangle_3-11);
+      }
+
+      .cls-29 {
+        filter: url(#Rectangle_3-10);
+      }
+
+      .cls-30 {
+        filter: url(#Rectangle_3-9);
+      }
+
+      .cls-31 {
+        filter: url(#Rectangle_3-8);
+      }
+
+      .cls-32 {
+        filter: url(#Rectangle_3-7);
+      }
+
+      .cls-33 {
+        filter: url(#Rectangle_3-6);
+      }
+
+      .cls-34 {
+        filter: url(#Rectangle_3-5);
+      }
+
+      .cls-35 {
+        filter: url(#Rectangle_3-4);
+      }
+
+      .cls-36 {
+        filter: url(#Rectangle_3-3);
+      }
+
+      .cls-37 {
+        filter: url(#Rectangle_3-2);
+      }
+
+      .cls-38 {
+        filter: url(#Rectangle_3);
+      }
+
+      .cls-39 {
+        filter: url(#Rectangle_57);
+      }
+
+      .cls-40 {
+        filter: url(#Ellipse_10);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_91" data-name="Rectangle 91" width="300" height="500"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3976ff"/>
+      <stop offset="1" stop-color="#3961e8"/>
+    </linearGradient>
+    <filter id="Ellipse_10" x="15.833" y="27.333" width="54.667" height="54.667" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_57" x="15.833" y="112.333" width="291.333" height="419.667" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#39d07f" flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3" x="29.167" y="236.5" width="93" height="43.833" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3-2" x="110.833" y="236.5" width="75.5" height="43.833" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3-3" x="175" y="236.5" width="77.167" height="43.833" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3-4" x="29.167" y="269" width="116.333" height="43.833" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3-5" x="29.167" y="301.5" width="82.167" height="43.833" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3-6" x="100" y="301.5" width="74.667" height="43.833" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3-7" x="163.333" y="301.5" width="71.333" height="43.833" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3-8" x="223.333" y="301.5" width="69.667" height="43.833" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3-9" x="30" y="334" width="73" height="43.833" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-11"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3-10" x="91.667" y="334" width="72.167" height="43.833" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-12"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3-11" x="134.167" y="269" width="123" height="43.833" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-13"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_57-2" x="-257.5" y="112.333" width="291.333" height="419.667" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-14"/>
+      <feFlood flood-color="#39d07f" flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3-12" x="-71.667" y="468.167" width="92.167" height="53.833" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-15"/>
+      <feFlood flood-color="#39d07f" flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_62" data-name="Group 62" transform="translate(-128.5 -2095)">
+    <g id="Settings_Work_Apps" data-name="Settings – Work Apps" class="cls-1" transform="translate(140 2115)">
+      <rect id="Rectangle_90" data-name="Rectangle 90" class="cls-2" width="300" height="500"/>
+      <rect id="Rectangle_40" data-name="Rectangle 40" class="cls-3" width="300" height="138.333"/>
+      <text id="Settings" class="cls-4" transform="translate(101.533 77.333)"><tspan x="0" y="0">Settings</tspan></text>
+      <g id="Group_67" data-name="Group 67" transform="translate(13.333 13.333)">
+        <g class="cls-40" transform="matrix(1, 0, 0, 1, -24.83, -33.33)">
+          <circle id="Ellipse_10-2" data-name="Ellipse 10" class="cls-2" cx="18.333" cy="18.333" r="18.333" transform="translate(24.83 33.33)"/>
+        </g>
+        <g id="baseline-menu-24px" transform="translate(10 10)">
+          <path id="Path_73" data-name="Path 73" class="cls-5" d="M0,0H16.667V16.667H0Z"/>
+          <path id="Path_74" data-name="Path 74" class="cls-6" d="M3,16H14.667V14.333H3Zm0-4.167H14.667V10.167H3ZM3,6V7.667H14.667V6Z" transform="translate(-0.5 -2.667)"/>
+        </g>
+      </g>
+      <g id="work-apps-section" transform="translate(13.333 98.333)">
+        <g class="cls-39" transform="matrix(1, 0, 0, 1, -24.83, -118.33)">
+          <rect id="Rectangle_57-3" data-name="Rectangle 57" class="cls-2" width="273.333" height="401.667" rx="2" transform="translate(24.83 118.33)"/>
+        </g>
+        <line id="Line_9" data-name="Line 9" class="cls-7" x2="246.667" transform="translate(13.75 97.083)"/>
+        <text id="Type_app_name_or_keyword" data-name="Type app name or keyword" class="cls-8" transform="translate(14.167 92)"><tspan x="0" y="0">Type app name or keyword</tspan></text>
+        <g id="Group_46" data-name="Group 46" transform="translate(13.333 124.167)">
+          <g class="cls-38" transform="matrix(1, 0, 0, 1, -38.17, -242.5)">
+            <rect id="Rectangle_3-13" data-name="Rectangle 3" class="cls-2" width="75" height="25.833" rx="12.917" transform="translate(38.17 242.5)"/>
+          </g>
+          <text id="Adobe_xd" data-name="Adobe xd" class="cls-9" transform="translate(11.667 16.833)"><tspan x="0" y="0">Adobe xd</tspan></text>
+        </g>
+        <g id="Group_76" data-name="Group 76" transform="translate(95 124.167)">
+          <g class="cls-37" transform="matrix(1, 0, 0, 1, -119.83, -242.5)">
+            <rect id="Rectangle_3-14" data-name="Rectangle 3" class="cls-2" width="57.5" height="25.833" rx="12.917" transform="translate(119.83 242.5)"/>
+          </g>
+          <text id="adobe" class="cls-9" transform="translate(11.667 16.833)"><tspan x="0" y="0">adobe</tspan></text>
+        </g>
+        <g id="Group_77" data-name="Group 77" transform="translate(159.167 124.167)">
+          <g class="cls-36" transform="matrix(1, 0, 0, 1, -184, -242.5)">
+            <rect id="Rectangle_3-15" data-name="Rectangle 3" class="cls-2" width="59.167" height="25.833" rx="12.917" transform="translate(184 242.5)"/>
+          </g>
+          <text id="sketch" class="cls-9" transform="translate(11.667 16.833)"><tspan x="0" y="0">sketch</tspan></text>
+        </g>
+        <g id="Group_78" data-name="Group 78" transform="translate(13.333 156.667)">
+          <g class="cls-35" transform="matrix(1, 0, 0, 1, -38.17, -275)">
+            <rect id="Rectangle_3-16" data-name="Rectangle 3" class="cls-2" width="98.333" height="25.833" rx="12.917" transform="translate(38.17 275)"/>
+          </g>
+          <text id="stackoverflow" class="cls-9" transform="translate(11.667 16.833)"><tspan x="0" y="0">stackoverflow</tspan></text>
+        </g>
+        <g id="Group_80" data-name="Group 80" transform="translate(13.333 189.167)">
+          <g class="cls-34" transform="matrix(1, 0, 0, 1, -38.17, -307.5)">
+            <rect id="Rectangle_3-17" data-name="Rectangle 3" class="cls-2" width="64.167" height="25.833" rx="12.917" transform="translate(38.17 307.5)"/>
+          </g>
+          <text id="chrome" class="cls-9" transform="translate(11.667 16.833)"><tspan x="0" y="0">chrome</tspan></text>
+        </g>
+        <g id="Group_81" data-name="Group 81" transform="translate(84.167 189.167)">
+          <g class="cls-33" transform="matrix(1, 0, 0, 1, -109, -307.5)">
+            <rect id="Rectangle_3-18" data-name="Rectangle 3" class="cls-2" width="56.667" height="25.833" rx="12.917" transform="translate(109 307.5)"/>
+          </g>
+          <text id="firefox" class="cls-9" transform="translate(11.667 16.833)"><tspan x="0" y="0">firefox</tspan></text>
+        </g>
+        <g id="Group_82" data-name="Group 82" transform="translate(147.5 189.167)">
+          <g class="cls-32" transform="matrix(1, 0, 0, 1, -172.33, -307.5)">
+            <rect id="Rectangle_3-19" data-name="Rectangle 3" class="cls-2" width="53.333" height="25.833" rx="12.917" transform="translate(172.33 307.5)"/>
+          </g>
+          <text id="safari" class="cls-9" transform="translate(11.667 16.833)"><tspan x="0" y="0">safari</tspan></text>
+        </g>
+        <g id="Group_83" data-name="Group 83" transform="translate(207.5 189.167)">
+          <g class="cls-31" transform="matrix(1, 0, 0, 1, -232.33, -307.5)">
+            <rect id="Rectangle_3-20" data-name="Rectangle 3" class="cls-2" width="51.667" height="25.833" rx="12.917" transform="translate(232.33 307.5)"/>
+          </g>
+          <text id="slack" class="cls-9" transform="translate(11.667 16.833)"><tspan x="0" y="0">slack</tspan></text>
+        </g>
+        <g id="Group_84" data-name="Group 84" transform="translate(14.167 221.667)">
+          <g class="cls-30" transform="matrix(1, 0, 0, 1, -39, -340)">
+            <rect id="Rectangle_3-21" data-name="Rectangle 3" class="cls-2" width="55" height="25.833" rx="12.917" transform="translate(39 340)"/>
+          </g>
+          <text id="skype" class="cls-9" transform="translate(11.667 16.833)"><tspan x="0" y="0">skype</tspan></text>
+        </g>
+        <g id="Group_85" data-name="Group 85" transform="translate(75.833 221.667)">
+          <g class="cls-29" transform="matrix(1, 0, 0, 1, -100.67, -340)">
+            <rect id="Rectangle_3-22" data-name="Rectangle 3" class="cls-2" width="54.167" height="25.833" rx="12.917" transform="translate(100.67 340)"/>
+          </g>
+          <text id="opera" class="cls-9" transform="translate(11.667 16.833)"><tspan x="0" y="0">opera</tspan></text>
+        </g>
+        <g id="Group_79" data-name="Group 79" transform="translate(118.333 156.667)">
+          <g class="cls-28" transform="matrix(1, 0, 0, 1, -143.17, -275)">
+            <rect id="Rectangle_3-23" data-name="Rectangle 3" class="cls-2" width="105" height="25.833" rx="12.917" transform="translate(143.17 275)"/>
+          </g>
+          <text id="stackexchange" class="cls-9" transform="translate(11.667 16.833)"><tspan x="0" y="0">stackexchange</tspan></text>
+        </g>
+        <g id="Group_89" data-name="Group 89" transform="translate(13.333 13.333)">
+          <text id="Work_Apps_Keywords" data-name="Work Apps Keywords" class="cls-10" transform="translate(16.667 12)"><tspan x="0" y="0">Work Apps Keywords</tspan></text>
+          <text id="List_of_project_apps_so_we_can_notify_you_to_stop_tracking_your_project_after_you_stop_working_in_your_favorite_tool." data-name="List of project apps so we can notify you to stop 
+tracking your project after you stop working in your 
+favorite tool." class="cls-11" transform="translate(16.667 23.833)"><tspan x="0" y="0">List of project apps so we can notify you to stop </tspan><tspan x="0" y="11">tracking your project after you stop working in your </tspan><tspan x="0" y="22">favorite tool.</tspan></text>
+          <text id="_" data-name="" class="cls-12" transform="translate(0 12.667)"><tspan x="0" y="0"></tspan></text>
+        </g>
+      </g>
+      <g id="settings-section" class="cls-13" transform="translate(-260 98.333)">
+        <g class="cls-27" transform="matrix(1, 0, 0, 1, 248.5, -118.33)">
+          <rect id="Rectangle_57-4" data-name="Rectangle 57" class="cls-2" width="273.333" height="401.667" rx="2" transform="translate(-248.5 118.33)"/>
+        </g>
+        <text id="Delete_all_local_data" data-name="Delete all local data" class="cls-14" transform="translate(13.333 377.833)"><tspan x="0" y="0">Delete all local data</tspan></text>
+        <text id="Remind_me_about_tracking" data-name="Remind me about tracking" class="cls-10" transform="translate(13.333 42)"><tspan x="0" y="0">Remind me about tracking</tspan></text>
+        <text id="Remind_me_every" data-name="Remind me every" class="cls-10" transform="translate(13.333 94.5)"><tspan x="0" y="0">Remind me every</tspan></text>
+        <text id="_15_min" data-name="15 min" class="cls-15" transform="translate(221.96 94.5)"><tspan x="0" y="0">15 min</tspan></text>
+        <text id="Send_me_a_notification_every_X_minutes_to_remind_me_that_I_m_still_tracking_my_time." data-name="Send me a notification every X minutes to
+remind me that I’m still tracking my time." class="cls-16" transform="translate(13.333 53.833)"><tspan x="0" y="0">Send me a notification every X minutes to</tspan><tspan x="0" y="10">remind me that I’m still tracking my time.</tspan></text>
+        <g id="Group_46-2" data-name="Group 46" transform="translate(185.833 355.833)">
+          <g class="cls-26" transform="matrix(1, 0, 0, 1, 62.67, -474.17)">
+            <rect id="Rectangle_3-24" data-name="Rectangle 3" class="cls-2" width="74.167" height="35.833" rx="17.917" transform="translate(-62.67 474.17)"/>
+          </g>
+          <text id="Delete" class="cls-17" transform="translate(20 21.833)"><tspan x="0" y="0">Delete</tspan></text>
+        </g>
+        <g id="Group_75" data-name="Group 75" transform="translate(226.667 30.833)">
+          <g id="Rectangle_58" data-name="Rectangle 58" class="cls-18" transform="translate(0 0)">
+            <rect class="cls-25" width="33.333" height="15" rx="7.5"/>
+            <rect class="cls-5" x="-0.5" y="-0.5" width="34.333" height="16" rx="8"/>
+          </g>
+          <rect id="Rectangle_59" data-name="Rectangle 59" class="cls-19" width="13.333" height="13.333" rx="6.667" transform="translate(19.167 0.833)"/>
+        </g>
+        <g id="Group_86" data-name="Group 86" transform="translate(13.333 115)">
+          <text id="Work_Apps_Keywords-2" data-name="Work Apps Keywords" class="cls-10" transform="translate(0 12)"><tspan x="0" y="0">Work Apps Keywords</tspan></text>
+          <text id="List_of_active_apps_so_we_can_notify_you_to_stop_tracking_your_project_after_you_stop_working_on_your_app." data-name="List of active apps so we can notify you to stop tracking 
+your project after you stop working on your app." class="cls-11" transform="translate(0 23.833)"><tspan x="0" y="0">List of active apps so we can notify you to stop tracking </tspan><tspan x="0" y="11">your project after you stop working on your app.</tspan></text>
+        </g>
+        <g id="Group_87" data-name="Group 87" transform="translate(13.333 171.667)">
+          <text id="Customize_Your_App" data-name="Customize Your App" class="cls-10" transform="translate(0 12)"><tspan x="0" y="0">Customize Your App</tspan></text>
+          <text id="Change_theme_colors_of_your_app_to_suite_your_style." data-name="Change theme colors of your app to suite your style." class="cls-11" transform="translate(0 23.833)"><tspan x="0" y="0">Change theme colors of your app to suite your style.</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Rectangle" class="cls-20" transform="translate(140.5 2115.12)">
+      <path class="cls-25" d="M0,0H299.478a0,0,0,0,1,0,0V488.13a8,8,0,0,1-8,8H8a8,8,0,0,1-8-8V0A0,0,0,0,1,0,0Z"/>
+      <path class="cls-5" d="M0-6H299.478a6,6,0,0,1,6,6V488.13a14,14,0,0,1-14,14H8a14,14,0,0,1-14-14V0A6,6,0,0,1,0-6Z"/>
+    </g>
+    <g id="tab" transform="translate(129 2095)">
+      <path id="Rectangle_1" data-name="Rectangle 1" class="cls-21" d="M8,0H315a8,8,0,0,1,8,8V20.38a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" transform="translate(0 0)"/>
+      <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-22" cx="4.891" cy="4.891" r="4.891" transform="translate(6.522 5.707)"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-23" cx="4.891" cy="4.891" r="4.891" transform="translate(21.196 5.707)"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" class="cls-24" cx="4.891" cy="4.891" r="4.891" transform="translate(35.87 5.707)"/>
+    </g>
+  </g>
+</svg>

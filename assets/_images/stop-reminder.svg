@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="124" viewBox="0 0 400 124">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-5 {
+        fill: #242424;
+      }
+
+      .cls-2 {
+        font-size: 18px;
+        font-family: ZillaSlab-Medium, Zilla Slab Medium;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        font-weight: 500;
+      }
+
+      .cls-3 {
+        fill: #e35050;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        font-size: 16px;
+        font-family: HelveticaNeue-Medium, Helvetica Neue;
+        text-decoration: underline;
+      }
+
+      .cls-4 {
+        fill: #50e3c2;
+      }
+    </style>
+  </defs>
+  <g id="Group_63" data-name="Group 63" transform="translate(-87 -1764)">
+    <rect id="Rectangle_89" data-name="Rectangle 89" class="cls-1" width="400" height="124" rx="8" transform="translate(87 1764)"/>
+    <text id="Hey_Netflix_isn_t_on_your_tools_list._Do_you_maybe_wan_t_to_stop_tracking_the_time_" data-name="Hey, Netflix isn’t on your tools list. Do you maybe wan’t to stop tracking the time? " class="cls-2" transform="translate(111 1780)"><tspan x="0" y="17">Hey, Netflix isn’t on your tools list. Do you </tspan><tspan x="0" y="39">maybe wan’t to stop tracking the time? </tspan></text>
+    <text id="YES" class="cls-3" transform="translate(112 1869)"><tspan x="0" y="0">YES</tspan></text>
+    <text id="SAVE_AS_TOOL" data-name="SAVE AS TOOL" class="cls-4" transform="translate(167 1869)"><tspan x="0" y="0">SAVE AS TOOL</tspan></text>
+    <text id="REMIND_ME_LATER" data-name="REMIND ME LATER" class="cls-5" transform="translate(463 1869)"><tspan x="-145.536" y="0">REMIND ME LATER</tspan></text>
+  </g>
+</svg>
