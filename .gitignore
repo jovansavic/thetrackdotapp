@@ -11,6 +11,12 @@ _site
 /.bundle
 /vendor
 
+# Firebase
+.firebase
+.firebaserc
+firebase.json
+/public
+
 # Node.js
 node_modules/
 

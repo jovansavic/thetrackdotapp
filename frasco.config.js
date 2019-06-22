@@ -56,6 +56,7 @@ module.exports = {
     entry: [
       'bundle.js',
       'main.js',
+      'subscribe.js',
     ],
   },
 

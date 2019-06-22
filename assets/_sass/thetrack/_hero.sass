@@ -13,13 +13,17 @@
 
   .hero-title
     padding-top: 5%
-    font-size: 3rem
+    //font-size: 1rem
     font-weight: 700
     color: white
     font-family: $primary-font
     max-width: 580px
     margin: auto
     margin-bottom: 20px
+    @media (max-width: $small-screen)
+      padding-top: 15%
+    @media (max-width: $mini-screen)
+      padding-top: 7%
 
   .hero-subtitle
     font-family: $primary-font

@@ -2,7 +2,7 @@ import $ from 'jquery';
 
 const Main = {
   headerShrink: function() {
-    if ( $(window).width() > 768 ) {
+    if ( $(window).width() > 1 ) {
       $(window).on('scroll', function() {
           if ( $(window).scrollTop() > 200 ) {
             $('.site-header').addClass('scrolled');

@@ -1,0 +1,26 @@
+.versions
+  display: flex
+  justify-content: center
+  margin-top: 4rem
+  @media (max-width: $small-screen)
+    flex-direction: column
+
+  .version
+    text-decoration: none
+    padding-left: 2rem
+    padding-right: 2rem
+    text-align: center
+    img
+      width: 4rem
+      margin: 0
+
+    h2
+      color: $accent-color
+      margin-top: .5rem
+      strong
+        display: block
+        font-size: 1.5rem
+        font-weight: 500
+        &.os
+          font-weight: 400
+          font-size: 1rem

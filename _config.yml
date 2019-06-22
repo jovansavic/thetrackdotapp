@@ -22,6 +22,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thetrack.app
 github_username:  johnofficial
 
+app_name_mac: The Track Time Tracker-2.0.0.dmg
+app_name_win: The Track Time Tracker Setup 2.0.0-ia32.exe
+app_name_ubuntu: The Track Time Tracker 2.0.0.AppImage
+
+
+subscribe_url: subscribe
+upgrade_url: upgrade-time-tracking-app
+download_url: download-time-tracking-app-for-freelancers
+
 # Build settings
 markdown: kramdown
 # theme: minima
