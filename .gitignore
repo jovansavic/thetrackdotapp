@@ -10,6 +10,7 @@ _site
 .jekyll-metadata
 /.bundle
 /vendor
+assets/app
 
 # Firebase
 .firebase

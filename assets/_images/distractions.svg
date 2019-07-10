@@ -1,0 +1,286 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="392" height="643" viewBox="0 0 392 643">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-settings-distractions);
+      }
+
+      .cls-12, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #f4f4f4;
+      }
+
+      .cls-4 {
+        fill: #ffc12f;
+        stroke: #e19f1b;
+      }
+
+      .cls-5 {
+        fill: #995700;
+      }
+
+      .cls-6 {
+        fill: #ff625a;
+        stroke: #e2483f;
+      }
+
+      .cls-7 {
+        fill: #4d0000;
+      }
+
+      .cls-8 {
+        fill: #2acf42;
+        stroke: #1eaa26;
+      }
+
+      .cls-9 {
+        fill: #026400;
+      }
+
+      .cls-10 {
+        fill: #4d4c4d;
+        font-size: 13px;
+      }
+
+      .cls-10, .cls-17 {
+        font-family: HelveticaNeue-Medium, Helvetica Neue;
+      }
+
+      .cls-10, .cls-12, .cls-17, .cls-18, .cls-19 {
+        font-weight: 500;
+      }
+
+      .cls-11 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-12 {
+        font-size: 32px;
+      }
+
+      .cls-12, .cls-18, .cls-19 {
+        font-family: ZillaSlab-Medium, Zilla Slab;
+      }
+
+      .cls-13, .cls-15 {
+        fill: none;
+      }
+
+      .cls-14 {
+        fill: #242424;
+      }
+
+      .cls-15 {
+        stroke: #bebebe;
+      }
+
+      .cls-16, .cls-17, .cls-18, .cls-20 {
+        fill: #363636;
+      }
+
+      .cls-16, .cls-18, .cls-20 {
+        font-size: 16px;
+      }
+
+      .cls-16 {
+        font-family: ZillaSlab-SemiBold, Zilla Slab;
+        font-weight: 600;
+        opacity: 0.1;
+      }
+
+      .cls-17 {
+        font-size: 14px;
+      }
+
+      .cls-19 {
+        fill: #bebebe;
+        font-size: 12px;
+      }
+
+      .cls-20 {
+        font-family: FontAwesome5Pro-Regular, "Font Awesome 5 Pro";
+      }
+
+      .cls-21 {
+        stroke: none;
+      }
+
+      .cls-22 {
+        filter: url(#Rectangle_3-5);
+      }
+
+      .cls-23 {
+        filter: url(#Rectangle_3-4);
+      }
+
+      .cls-24 {
+        filter: url(#Rectangle_3-3);
+      }
+
+      .cls-25 {
+        filter: url(#Rectangle_3-2);
+      }
+
+      .cls-26 {
+        filter: url(#Rectangle_3);
+      }
+
+      .cls-27 {
+        filter: url(#Rectangle_57);
+      }
+
+      .cls-28 {
+        filter: url(#Ellipse_10);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3976ff"/>
+      <stop offset="1" stop-color="#3961e8"/>
+    </linearGradient>
+    <filter id="Ellipse_10" x="23" y="37" width="62" height="62" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_57" x="23" y="139" width="346" height="353" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3" x="39" y="273" width="108" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3-2" x="108" y="311" width="84" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3-3" x="137" y="273" width="87" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3-4" x="40" y="311" width="78" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3-5" x="214" y="273" width="110" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-settings-distractions">
+      <rect width="392" height="643"/>
+    </clipPath>
+  </defs>
+  <g id="settings-distractions" class="cls-1">
+    <rect id="background" class="cls-2" width="392" height="1282" rx="4"/>
+    <g id="frame">
+      <g id="frame-2" data-name="frame">
+        <rect id="Rectangle_123" data-name="Rectangle 123" class="cls-3" width="16" height="643" rx="4" transform="translate(376)"/>
+        <rect id="Rectangle_122" data-name="Rectangle 122" class="cls-3" width="16" height="643" rx="4"/>
+        <rect id="Rectangle_124" data-name="Rectangle 124" class="cls-3" width="392" height="16" rx="4" transform="translate(0 627)"/>
+      </g>
+      <g id="app-bar">
+        <path id="tab" class="cls-3" d="M4,0H388a4,4,0,0,1,4,4V27a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z"/>
+        <g id="minimise_" data-name="minimise " transform="translate(37 7)">
+          <g id="Ellipse_24" data-name="Ellipse 24" class="cls-4">
+            <circle class="cls-21" cx="6.5" cy="6.5" r="6.5"/>
+            <circle class="cls-13" cx="6.5" cy="6.5" r="6"/>
+          </g>
+          <rect id="Rectangle_116" data-name="Rectangle 116" class="cls-5" width="7" height="1" transform="translate(3 6)"/>
+        </g>
+        <g id="close" transform="translate(16 7)">
+          <g id="Ellipse_23" data-name="Ellipse 23" class="cls-6">
+            <circle class="cls-21" cx="6.5" cy="6.5" r="6.5"/>
+            <circle class="cls-13" cx="6.5" cy="6.5" r="6"/>
+          </g>
+          <rect id="Rectangle_117" data-name="Rectangle 117" class="cls-7" width="7" height="1" transform="translate(4.379 3.672) rotate(45)"/>
+          <rect id="Rectangle_118" data-name="Rectangle 118" class="cls-7" width="7" height="1" transform="translate(3.672 8.621) rotate(-45)"/>
+        </g>
+        <g id="fullscreen" transform="translate(58 7)">
+          <g id="Ellipse_25" data-name="Ellipse 25" class="cls-8">
+            <circle class="cls-21" cx="6.5" cy="6.5" r="6.5"/>
+            <circle class="cls-13" cx="6.5" cy="6.5" r="6"/>
+          </g>
+          <rect id="Rectangle_120" data-name="Rectangle 120" class="cls-9" width="7" height="1" transform="translate(7 3) rotate(90)"/>
+          <rect id="Rectangle_119" data-name="Rectangle 119" class="cls-9" width="7" height="1" transform="translate(3 6)"/>
+        </g>
+        <text id="The_Track" data-name="The Track" class="cls-10" transform="translate(196 19)"><tspan x="-29.269" y="0">The Track</tspan></text>
+      </g>
+    </g>
+    <rect id="Rectangle_40" data-name="Rectangle 40" class="cls-11" width="360" height="166" transform="translate(16 27)"/>
+    <text id="Settings" class="cls-12" transform="translate(196 121)"><tspan x="-58.16" y="0">Settings</tspan></text>
+    <g id="Group_67" data-name="Group 67" transform="translate(-121 -123)">
+      <g class="cls-28" transform="matrix(1, 0, 0, 1, 121, 123)">
+        <circle id="Ellipse_10-2" data-name="Ellipse 10" class="cls-2" cx="22" cy="22" r="22" transform="translate(32 43)"/>
+      </g>
+      <g id="baseline-menu-24px" transform="translate(165 178)">
+        <path id="Path_73" data-name="Path 73" class="cls-13" d="M0,0H20V20H0Z"/>
+        <path id="Path_74" data-name="Path 74" class="cls-14" d="M3,18H17V16H3Zm0-5H17V11H3ZM3,6V8H17V6Z" transform="translate(0 -2)"/>
+      </g>
+    </g>
+    <g id="work-apps-section" transform="translate(16 27)">
+      <g class="cls-27" transform="matrix(1, 0, 0, 1, -16, -27)">
+        <rect id="Rectangle_57-2" data-name="Rectangle 57" class="cls-2" width="328" height="335" rx="2" transform="translate(32 145)"/>
+      </g>
+      <line id="Line_9" data-name="Line 9" class="cls-15" x2="296" transform="translate(32.5 219.5)"/>
+      <text id="Type_app_name_or_keyword" data-name="Type app name or keyword" class="cls-16" transform="translate(33 214)"><tspan x="0" y="0">Type app name or keyword</tspan></text>
+      <g id="Group_46" data-name="Group 46" transform="translate(-38 -98)">
+        <g class="cls-26" transform="matrix(1, 0, 0, 1, 22, 71)">
+          <rect id="Rectangle_3-6" data-name="Rectangle 3" class="cls-2" width="90" height="30" rx="15" transform="translate(48 279)"/>
+        </g>
+        <text id="facebook" class="cls-17" transform="translate(84 371)"><tspan x="0" y="0">facebook</tspan></text>
+      </g>
+      <g id="Group_152" data-name="Group 152" transform="translate(31 -60)">
+        <g class="cls-25" transform="matrix(1, 0, 0, 1, -47, 33)">
+          <rect id="Rectangle_3-7" data-name="Rectangle 3" class="cls-2" width="66" height="30" rx="15" transform="translate(117 317)"/>
+        </g>
+        <text id="reddit" class="cls-17" transform="translate(84 371)"><tspan x="0" y="0">reddit</tspan></text>
+      </g>
+      <g id="Group_149" data-name="Group 149" transform="translate(60 -98)">
+        <g class="cls-24" transform="matrix(1, 0, 0, 1, -76, 71)">
+          <rect id="Rectangle_3-8" data-name="Rectangle 3" class="cls-2" width="69" height="30" rx="15" transform="translate(146 279)"/>
+        </g>
+        <text id="twitter" class="cls-17" transform="translate(84 371)"><tspan x="0" y="0">twitter</tspan></text>
+      </g>
+      <g id="Group_151" data-name="Group 151" transform="translate(-37 -60)">
+        <g class="cls-23" transform="matrix(1, 0, 0, 1, 21, 33)">
+          <rect id="Rectangle_3-9" data-name="Rectangle 3" class="cls-2" width="60" height="30" rx="15" transform="translate(49 317)"/>
+        </g>
+        <text id="snap" class="cls-17" transform="translate(84 371)"><tspan x="0" y="0">snap</tspan></text>
+      </g>
+      <g id="Group_150" data-name="Group 150" transform="translate(137 -98)">
+        <g class="cls-22" transform="matrix(1, 0, 0, 1, -153, 71)">
+          <rect id="Rectangle_3-10" data-name="Rectangle 3" class="cls-2" width="92" height="30" rx="15" transform="translate(223 279)"/>
+        </g>
+        <text id="instagram" class="cls-17" transform="translate(84 371)"><tspan x="0" y="0">instagram</tspan></text>
+      </g>
+      <g id="Group_89" data-name="Group 89">
+        <text id="Distractions" class="cls-18" transform="translate(52 149)"><tspan x="0" y="0">Distractions</tspan></text>
+        <text id="List_of_distractions_to_remind_you_stop_tracking_time." data-name="List of distractions to remind you stop tracking time." class="cls-19" transform="translate(52 153)"><tspan x="0" y="11">List of distractions to remind you stop tracking time.</tspan></text>
+        <text id="_" data-name="" class="cls-20" transform="translate(32 150)"><tspan x="0" y="0"></tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

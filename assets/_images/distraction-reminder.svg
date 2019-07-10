@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="155" viewBox="0 0 480 155">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #242424;
+      }
+
+      .cls-2 {
+        font-size: 24px;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: NotoSans-Medium, Noto Sans;
+        font-weight: 500;
+      }
+
+      .cls-3 {
+        fill: #363636;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        font-size: 16px;
+      }
+
+      .cls-4, .cls-5 {
+        font-family: NotoSans-SemiBold, Noto Sans;
+        font-weight: 600;
+      }
+
+      .cls-5 {
+        fill: #ff5a5a;
+      }
+    </style>
+  </defs>
+  <g id="Group_132" data-name="Group 132" transform="translate(-480 -437)">
+    <rect id="Rectangle_113" data-name="Rectangle 113" class="cls-1" width="480" height="155" rx="12" transform="translate(480 437)"/>
+    <text id="Facebook_Distraction" data-name="Facebook Distraction" class="cls-2" transform="translate(504 484)"><tspan x="0" y="0">Facebook Distraction</tspan></text>
+    <text id="Hey_Facebook_is_on_your_distractions_list." data-name="Hey, Facebook is on your distractions list." class="cls-3" transform="translate(504 495)"><tspan x="0" y="17">Hey, Facebook is on your distractions list.</tspan></text>
+    <text id="Close" class="cls-4" transform="translate(504 565)"><tspan x="0" y="0">Close</tspan></text>
+    <text id="Stop_Tracking" data-name="Stop Tracking" class="cls-5" transform="translate(936 565)"><tspan x="-106.032" y="0">Stop Tracking</tspan></text>
+  </g>
+</svg>

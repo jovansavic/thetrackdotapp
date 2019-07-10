@@ -1,0 +1,79 @@
+.post
+  .basic-wrap
+    max-width: 920px
+
+
+.post-content
+  padding: 4rem
+  box-sizing: border-box
+  background: white
+  box-shadow: 0 3px 6px rgba(0,0,0,.06)
+  border-radius: 4px
+  margin-top: -8rem
+  margin-bottom: 2rem
+
+  @media (max-width: $small-screen)
+    padding: 2rem
+
+  *
+    font-family: $secondary-font
+
+
+.blog-posts-wrap
+  margin-top: -8rem
+  display: flex
+  justify-content: space-between
+  flex-wrap: wrap
+
+
+
+.post-unit
+  border-radius: .5rem
+  background: white
+  box-shadow: 0 3px 6px rgba(0,0,0, .06)
+  display: flex
+  padding: 1.5rem
+  width: 48%
+  margin: .5rem
+  @media (max-width: $small-screen)
+    width: 100%
+
+  img
+    border-radius: .5rem
+    max-width: 128px
+
+    @media (max-width: $small-screen)
+      max-width: 96px
+    @media (max-width: $mini-screen)
+      max-width: 64px
+
+  .project-text
+    padding-left: 1rem
+    display: flex
+    flex-direction: column
+
+  a
+    text-decoration: none
+
+  .post-title
+    margin: 0
+    color: #00144A
+    font-size: 1.1rem
+    font-weight: 600
+    font-family: $primary-font
+
+
+  .post-description
+    margin: 0
+    color: #CECECE
+    font-size: .8rem
+    line-height: 1.2
+
+  .post-btn
+    margin: 0
+    margin-top: auto
+    color: $accent-color
+    text-decoration: underline
+    font-size: 1rem
+
+

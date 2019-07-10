@@ -1,0 +1,20 @@
+<div class="wrap basic-wrap basic-padding m-auto blog-posts-wrap">
+
+	{% assign sorted_posts = (site.blog | sort: 'place') | reverse %}
+	{% for post in sorted_posts %}
+	{% if post.published %}
+	<div class="post-unit">
+		<a href="{{site.baseurl}}{{post.url}}" class="blog-card" title="{{ post.name }} - {{ post.description }}">
+			<img src="{{site.baseurl}}/assets/images/blog/{{ post.thumbnail}}" alt="{{ post.name }} | {{ post.description }}" title="{{ post.name }}">
+			<div class="project-text">
+				<h2 class="post-title">{{ post.name }}</h2>
+				<p class="post-description">{{ post.description }}</p>
+				<a class="post-btn" href="{{site.baseurl}}{{post.url}}" title="{{ post.name }} - {{ post.description }}">Read Article</a>
+			</div>
+		</a>
+	</div>
+	{% endif %}
+	{% endfor %}
+
+
+</div>

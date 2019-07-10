@@ -1,8 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="402" height="124" viewBox="0 0 402 124">
-  <g id="Group_61" data-name="Group 61" transform="translate(-87 -1764)">
-    <rect id="Rectangle_89" data-name="Rectangle 89" width="402" height="124" rx="8" transform="translate(87 1764)" fill="#fff"/>
-    <text id="Hey_it_s_seem_like_you_haven_t_move_in_a_while_I_ll_stop_tracking_your_time." data-name="Hey, it’s seem like you haven’t move in a while, I’ll stop tracking your time." transform="translate(188 1780)" fill="#242424" font-size="18" font-family="ZillaSlab-Medium, Zilla Slab Medium" font-weight="500"><tspan x="0" y="17">Hey, it’s seem like you haven’t move </tspan><tspan x="0" y="39">in a while, I’ll stop tracking your </tspan><tspan x="0" y="61">time.</tspan></text>
-    <text id="_10" data-name="10" transform="translate(138 1844)" fill="#00144a" font-size="48" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-26.688" y="0">10</tspan></text>
-    <text id="DON_T_STOP" data-name="DON’T STOP" transform="translate(189 1869)" fill="#50e3c2" font-size="16" font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500" text-decoration="underline"><tspan x="0" y="0">DON’T STOP</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="155" viewBox="0 0 480 155">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-6 {
+        fill: #ff5a5a;
+      }
+
+      .cls-2 {
+        font-size: 32px;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        font-family: NotoSans-Medium, Noto Sans;
+        font-weight: 500;
+      }
+
+      .cls-3 {
+        fill: #242424;
+        font-size: 24px;
+      }
+
+      .cls-4 {
+        fill: #363636;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        font-size: 16px;
+      }
+
+      .cls-5 {
+        fill: #39d07f;
+      }
+
+      .cls-5, .cls-6 {
+        font-family: NotoSans-SemiBold, Noto Sans;
+        font-weight: 600;
+      }
+    </style>
+  </defs>
+  <g id="Group_130" data-name="Group 130" transform="translate(-480 -437)">
+    <rect id="Rectangle_113" data-name="Rectangle 113" class="cls-1" width="480" height="155" rx="12" transform="translate(480 437)"/>
+    <text id="_10" data-name="10" class="cls-2" transform="translate(504 492)"><tspan x="0" y="0">10</tspan></text>
+    <text id="App_Development" data-name="App Development" class="cls-3" transform="translate(564 484)"><tspan x="0" y="0">App Development</tspan></text>
+    <text id="It_seems_like_you_aren_t_active_for_a_while_I_will_stop_tracking_your_time_in_10_seconds." data-name="It seems like you aren’t active for a while, I will stop tracking your time in 10 seconds." class="cls-4" transform="translate(564 495)"><tspan x="0" y="17">It seems like you aren’t active for a while, I will </tspan><tspan x="0" y="39">stop tracking your time in 10 seconds.</tspan></text>
+    <text id="Continue_Tracking" data-name="Continue Tracking" class="cls-5" transform="translate(564 565)"><tspan x="0" y="0">Continue Tracking</tspan></text>
+    <text id="Stop_Tracking" data-name="Stop Tracking" class="cls-6" transform="translate(936 565)"><tspan x="-106.032" y="0">Stop Tracking</tspan></text>
   </g>
 </svg>

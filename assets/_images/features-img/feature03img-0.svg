@@ -1,0 +1,292 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="392" height="643" viewBox="0 0 392 643">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-feature03img-0);
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        font-size: 24px;
+      }
+
+      .cls-10, .cls-11, .cls-4, .cls-7 {
+        font-family: ZillaSlab-Medium, Zilla Slab;
+      }
+
+      .cls-10, .cls-11, .cls-20, .cls-4, .cls-7 {
+        font-weight: 500;
+      }
+
+      .cls-5 {
+        fill: #39d07f;
+      }
+
+      .cls-6 {
+        fill: none;
+      }
+
+      .cls-7, .cls-9 {
+        fill: #363636;
+      }
+
+      .cls-10, .cls-7, .cls-8, .cls-9 {
+        font-size: 16px;
+      }
+
+      .cls-10, .cls-11, .cls-8 {
+        fill: #39d0c4;
+      }
+
+      .cls-8 {
+        font-family: HelveticaNeue-Bold, Helvetica Neue;
+        font-weight: 700;
+      }
+
+      .cls-9 {
+        font-family: ZillaSlab-Regular, Zilla Slab;
+      }
+
+      .cls-11 {
+        font-size: 12px;
+        text-decoration: underline;
+      }
+
+      .cls-12 {
+        fill: #242424;
+      }
+
+      .cls-13 {
+        fill: #f4f4f4;
+      }
+
+      .cls-14 {
+        fill: #ffc12f;
+        stroke: #e19f1b;
+      }
+
+      .cls-15 {
+        fill: #995700;
+      }
+
+      .cls-16 {
+        fill: #ff625a;
+        stroke: #e2483f;
+      }
+
+      .cls-17 {
+        fill: #4d0000;
+      }
+
+      .cls-18 {
+        fill: #2acf42;
+        stroke: #1eaa26;
+      }
+
+      .cls-19 {
+        fill: #026400;
+      }
+
+      .cls-20 {
+        fill: #4d4c4d;
+        font-size: 13px;
+        font-family: HelveticaNeue-Medium, Helvetica Neue;
+      }
+
+      .cls-21 {
+        stroke: none;
+      }
+
+      .cls-22 {
+        filter: url(#Ellipse_10-2);
+      }
+
+      .cls-23 {
+        filter: url(#Rectangle_46);
+      }
+
+      .cls-24 {
+        filter: url(#Rectangle_44);
+      }
+
+      .cls-25 {
+        filter: url(#Ellipse_10);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3976ff"/>
+      <stop offset="1" stop-color="#3961e8"/>
+    </linearGradient>
+    <filter id="Ellipse_10" x="155" y="155" width="82" height="82" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_44" x="23" y="248" width="346" height="69" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_46" x="23" y="359" width="346" height="332" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_10-2" x="23" y="37" width="62" height="62" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-feature03img-0">
+      <rect width="392" height="643"/>
+    </clipPath>
+  </defs>
+  <g id="feature03img-0" class="cls-1">
+    <rect id="background" class="cls-2" width="392" height="1282" rx="4"/>
+    <rect id="Rectangle_40" data-name="Rectangle 40" class="cls-3" width="360" height="166" transform="translate(16 27)"/>
+    <text id="Landing_Page_Web_Design" data-name="Landing Page Web Design" class="cls-4" transform="translate(196 119)"><tspan x="-134.94" y="0">Landing Page Web Design</tspan></text>
+    <g id="Group_58" data-name="Group 58" transform="translate(11 -5)">
+      <g class="cls-25" transform="matrix(1, 0, 0, 1, -11, 5)">
+        <circle id="Ellipse_10-3" data-name="Ellipse 10" class="cls-2" cx="32" cy="32" r="32" transform="translate(164 161)"/>
+      </g>
+      <g id="baseline-play_arrow-24px" transform="translate(173 186)">
+        <path id="Path_67" data-name="Path 67" class="cls-5" d="M8,5V19l11-7Z"/>
+        <path id="Path_68" data-name="Path 68" class="cls-6" d="M0,0H24V24H0Z"/>
+      </g>
+    </g>
+    <g class="cls-24" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="Rectangle_44-2" data-name="Rectangle 44" class="cls-2" width="328" height="51" rx="2" transform="translate(32 257)"/>
+    </g>
+    <g class="cls-23" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="Rectangle_46-2" data-name="Rectangle 46" class="cls-2" width="328" height="314" rx="2" transform="translate(32 365)"/>
+    </g>
+    <text id="Project_time" data-name="Project time" class="cls-7" transform="translate(48 288)"><tspan x="0" y="0">Project time</tspan></text>
+    <text id="Hero_Section" data-name="Hero Section" class="cls-7" transform="translate(48 396)"><tspan x="0" y="0">Hero Section</tspan></text>
+    <g id="Group_63" data-name="Group 63" transform="translate(56 -19)">
+      <text id="_27" data-name="27" class="cls-8" transform="translate(212 308)"><tspan x="-17.792" y="0">27</tspan></text>
+      <text id="_25" data-name="25" class="cls-8" transform="translate(261 308)"><tspan x="-17.792" y="0">25</tspan></text>
+      <text id="hrs" class="cls-9" transform="translate(212 307)"><tspan x="0" y="0">hrs</tspan></text>
+      <text id="min" class="cls-9" transform="translate(261 307)"><tspan x="0" y="0">min</tspan></text>
+    </g>
+    <g id="Group_66" data-name="Group 66" transform="translate(56 89)">
+      <text id="_02" data-name="02" class="cls-8" transform="translate(212 308)"><tspan x="-17.792" y="0">02</tspan></text>
+      <text id="_30" data-name="30" class="cls-8" transform="translate(261 308)"><tspan x="-17.792" y="0">30</tspan></text>
+      <text id="hrs-2" data-name="hrs" class="cls-9" transform="translate(212 307)"><tspan x="0" y="0">hrs</tspan></text>
+      <text id="min-2" data-name="min" class="cls-9" transform="translate(261 307)"><tspan x="0" y="0">min</tspan></text>
+    </g>
+    <g id="Group_73" data-name="Group 73" transform="translate(16 -43)">
+      <rect id="Rectangle_51" data-name="Rectangle 51" class="cls-2" width="328" height="51" rx="2" transform="translate(16 459)"/>
+      <text id="_14.03.2019." data-name="14.03.2019." class="cls-7" transform="translate(32 490)"><tspan x="0" y="0">14.03.2019.</tspan></text>
+      <text id="_15:30-14:00" data-name="15:30-14:00" class="cls-10" transform="translate(117 490)"><tspan x="0" y="0">15:30-14:00</tspan></text>
+      <g id="Group_72" data-name="Group 72" transform="translate(40 183)">
+        <text id="_0" data-name="0" class="cls-8" transform="translate(212 308)"><tspan x="-8.896" y="0">0</tspan></text>
+        <text id="_30-2" data-name="30" class="cls-8" transform="translate(261 308)"><tspan x="-17.792" y="0">30</tspan></text>
+        <text id="hrs-3" data-name="hrs" class="cls-9" transform="translate(212 307)"><tspan x="0" y="0">hrs</tspan></text>
+        <text id="min-3" data-name="min" class="cls-9" transform="translate(261 307)"><tspan x="0" y="0">min</tspan></text>
+      </g>
+    </g>
+    <g id="Group_73-2" data-name="Group 73" transform="translate(16 8)">
+      <rect id="Rectangle_51-2" data-name="Rectangle 51" class="cls-2" width="328" height="51" rx="2" transform="translate(16 459)"/>
+      <text id="_14.03.2019.-2" data-name="14.03.2019." class="cls-7" transform="translate(32 490)"><tspan x="0" y="0">14.03.2019.</tspan></text>
+      <text id="_12:30-13:00" data-name="12:30-13:00" class="cls-10" transform="translate(117 490)"><tspan x="0" y="0">12:30-13:00</tspan></text>
+      <g id="Group_72-2" data-name="Group 72" transform="translate(40 183)">
+        <text id="_0-2" data-name="0" class="cls-8" transform="translate(212 308)"><tspan x="-8.896" y="0">0</tspan></text>
+        <text id="_30-3" data-name="30" class="cls-8" transform="translate(261 308)"><tspan x="-17.792" y="0">30</tspan></text>
+        <text id="hrs-4" data-name="hrs" class="cls-9" transform="translate(212 307)"><tspan x="0" y="0">hrs</tspan></text>
+        <text id="min-4" data-name="min" class="cls-9" transform="translate(261 307)"><tspan x="0" y="0">min</tspan></text>
+      </g>
+    </g>
+    <g id="Group_73-3" data-name="Group 73" transform="translate(16 59)">
+      <rect id="Rectangle_51-3" data-name="Rectangle 51" class="cls-2" width="328" height="51" rx="2" transform="translate(16 459)"/>
+      <text id="_14.03.2019.-3" data-name="14.03.2019." class="cls-7" transform="translate(32 490)"><tspan x="0" y="0">14.03.2019.</tspan></text>
+      <text id="_11:30-13:00" data-name="11:30-13:00" class="cls-10" transform="translate(117 490)"><tspan x="0" y="0">11:30-13:00</tspan></text>
+      <g id="Group_72-3" data-name="Group 72" transform="translate(40 183)">
+        <text id="_0-3" data-name="0" class="cls-8" transform="translate(212 308)"><tspan x="-8.896" y="0">0</tspan></text>
+        <text id="_30-4" data-name="30" class="cls-8" transform="translate(261 308)"><tspan x="-17.792" y="0">30</tspan></text>
+        <text id="hrs-5" data-name="hrs" class="cls-9" transform="translate(212 307)"><tspan x="0" y="0">hrs</tspan></text>
+        <text id="min-5" data-name="min" class="cls-9" transform="translate(261 307)"><tspan x="0" y="0">min</tspan></text>
+      </g>
+    </g>
+    <g id="Group_73-4" data-name="Group 73" transform="translate(16 110)">
+      <rect id="Rectangle_51-4" data-name="Rectangle 51" class="cls-2" width="328" height="51" rx="2" transform="translate(16 459)"/>
+      <text id="_14.03.2019.-4" data-name="14.03.2019." class="cls-7" transform="translate(32 490)"><tspan x="0" y="0">14.03.2019.</tspan></text>
+      <text id="_10:00-10:30" data-name="10:00-10:30" class="cls-10" transform="translate(117 490)"><tspan x="0" y="0">10:00-10:30</tspan></text>
+      <g id="Group_72-4" data-name="Group 72" transform="translate(40 183)">
+        <text id="_0-4" data-name="0" class="cls-8" transform="translate(212 308)"><tspan x="-8.896" y="0">0</tspan></text>
+        <text id="_30-5" data-name="30" class="cls-8" transform="translate(261 308)"><tspan x="-17.792" y="0">30</tspan></text>
+        <text id="hrs-6" data-name="hrs" class="cls-9" transform="translate(212 307)"><tspan x="0" y="0">hrs</tspan></text>
+        <text id="min-6" data-name="min" class="cls-9" transform="translate(261 307)"><tspan x="0" y="0">min</tspan></text>
+      </g>
+    </g>
+    <text id="Show_Project_Note" data-name="Show Project Note" class="cls-11" transform="translate(32 330)"><tspan x="0" y="0">Show Project Note</tspan></text>
+    <g id="Group_67" data-name="Group 67" transform="translate(-121 -123)">
+      <g class="cls-22" transform="matrix(1, 0, 0, 1, 121, 123)">
+        <circle id="Ellipse_10-4" data-name="Ellipse 10" class="cls-2" cx="22" cy="22" r="22" transform="translate(32 43)"/>
+      </g>
+      <g id="baseline-menu-24px" transform="translate(165 178)">
+        <path id="Path_73" data-name="Path 73" class="cls-6" d="M0,0H20V20H0Z"/>
+        <path id="Path_74" data-name="Path 74" class="cls-12" d="M3,18H17V16H3Zm0-5H17V11H3ZM3,6V8H17V6Z" transform="translate(0 -2)"/>
+      </g>
+    </g>
+    <g id="Group_73-5" data-name="Group 73" transform="translate(16 161)">
+      <rect id="Rectangle_51-5" data-name="Rectangle 51" class="cls-2" width="328" height="51" rx="2" transform="translate(16 459)"/>
+      <text id="_14.03.2019.-5" data-name="14.03.2019." class="cls-7" transform="translate(32 490)"><tspan x="0" y="0">14.03.2019.</tspan></text>
+      <text id="_09:20_09:50" data-name="09:20–09:50" class="cls-10" transform="translate(117 490)"><tspan x="0" y="0">09:20–09:50</tspan></text>
+      <g id="Group_72-5" data-name="Group 72" transform="translate(40 183)">
+        <text id="_0-5" data-name="0" class="cls-8" transform="translate(212 308)"><tspan x="-8.896" y="0">0</tspan></text>
+        <text id="_30-6" data-name="30" class="cls-8" transform="translate(261 308)"><tspan x="-17.792" y="0">30</tspan></text>
+        <text id="hrs-7" data-name="hrs" class="cls-9" transform="translate(212 307)"><tspan x="0" y="0">hrs</tspan></text>
+        <text id="min-7" data-name="min" class="cls-9" transform="translate(261 307)"><tspan x="0" y="0">min</tspan></text>
+      </g>
+    </g>
+    <g id="frame">
+      <g id="frame-2" data-name="frame">
+        <rect id="Rectangle_123" data-name="Rectangle 123" class="cls-13" width="16" height="643" rx="4" transform="translate(376)"/>
+        <rect id="Rectangle_122" data-name="Rectangle 122" class="cls-13" width="16" height="643" rx="4"/>
+        <rect id="Rectangle_124" data-name="Rectangle 124" class="cls-13" width="392" height="16" rx="4" transform="translate(0 627)"/>
+      </g>
+      <g id="app-bar">
+        <path id="tab" class="cls-13" d="M4,0H388a4,4,0,0,1,4,4V27a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z"/>
+        <g id="minimise_" data-name="minimise " transform="translate(37 7)">
+          <g id="Ellipse_24" data-name="Ellipse 24" class="cls-14">
+            <circle class="cls-21" cx="6.5" cy="6.5" r="6.5"/>
+            <circle class="cls-6" cx="6.5" cy="6.5" r="6"/>
+          </g>
+          <rect id="Rectangle_116" data-name="Rectangle 116" class="cls-15" width="7" height="1" transform="translate(3 6)"/>
+        </g>
+        <g id="close" transform="translate(16 7)">
+          <g id="Ellipse_23" data-name="Ellipse 23" class="cls-16">
+            <circle class="cls-21" cx="6.5" cy="6.5" r="6.5"/>
+            <circle class="cls-6" cx="6.5" cy="6.5" r="6"/>
+          </g>
+          <rect id="Rectangle_117" data-name="Rectangle 117" class="cls-17" width="7" height="1" transform="translate(4.379 3.672) rotate(45)"/>
+          <rect id="Rectangle_118" data-name="Rectangle 118" class="cls-17" width="7" height="1" transform="translate(3.672 8.621) rotate(-45)"/>
+        </g>
+        <g id="fullscreen" transform="translate(58 7)">
+          <g id="Ellipse_25" data-name="Ellipse 25" class="cls-18">
+            <circle class="cls-21" cx="6.5" cy="6.5" r="6.5"/>
+            <circle class="cls-6" cx="6.5" cy="6.5" r="6"/>
+          </g>
+          <rect id="Rectangle_120" data-name="Rectangle 120" class="cls-19" width="7" height="1" transform="translate(7 3) rotate(90)"/>
+          <rect id="Rectangle_119" data-name="Rectangle 119" class="cls-19" width="7" height="1" transform="translate(3 6)"/>
+        </g>
+        <text id="The_Track" data-name="The Track" class="cls-20" transform="translate(196 19)"><tspan x="-29.269" y="0">The Track</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
