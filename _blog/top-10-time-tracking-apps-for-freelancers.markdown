@@ -97,10 +97,10 @@ TWO MONTHS FOR FREE! Then it's only $7.86/month, and that is 0.26$ per day!
 [The Track]: https://thetrack.app/ 
 [Due Time Tracking]:  https://due.com/time/
 [Calendar (Desktop and Mobile Platform)]: https://talk.jekyllrb.com/
-[RescueTime]: /{{site.download_url}}
-[Tick]: /{{site.download_url}}
-[Harvest]: /{{site.download_url}}
-[Toggl]: /{{site.download_url}}
-[Hubstaff]: /{{site.download_url}}
-[TimeCamp]: /{{site.download_url}}
-[OfficeTime]: /{{site.download_url}}
+[RescueTime]: https://www.rescuetime.com/
+[Tick]: https://www.tickspot.com/
+[Harvest]: https://www.getharvest.com/
+[Toggl]: https://toggl.com/
+[Hubstaff]: http://try.hbstf.co/wZLqt
+[TimeCamp]: https://www.timecamp.com/
+[OfficeTime]: http://www.officetime.net/
