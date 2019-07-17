@@ -3,7 +3,7 @@ layout: post
 published: true
 place: 3
 name:  "Top 5 Toggl Alternatives"
-date:   2019-07-07 00:56:34 +0100
+date:   2019-07-12 00:56:34 +0100
 categories: jekyll update
 
 thumbnail: top-toggle-alternatives-thumb.png

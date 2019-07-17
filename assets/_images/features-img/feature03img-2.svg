@@ -46,7 +46,7 @@
       }
 
       .cls-14, .cls-8 {
-        font-family: HelveticaNeue-Bold, Helvetica Neue;
+        font-family: NotoSans-Bold, Noto Sans;
         font-weight: 700;
       }
 
@@ -101,7 +101,7 @@
       .cls-22 {
         fill: #4d4c4d;
         font-size: 13px;
-        font-family: HelveticaNeue-Medium, Helvetica Neue;
+        font-family: NotoSans-Medium, Noto Sans;
       }
 
       .cls-23 {
@@ -182,14 +182,14 @@
     <text id="Project_time" data-name="Project time" class="cls-7" transform="translate(48 288)"><tspan x="0" y="0">Project time</tspan></text>
     <text id="Hero_Section" data-name="Hero Section" class="cls-7" transform="translate(48 396)"><tspan x="0" y="0">Hero Section</tspan></text>
     <g id="Group_63" data-name="Group 63" transform="translate(56 -19)">
-      <text id="_27" data-name="27" class="cls-8" transform="translate(212 308)"><tspan x="-17.792" y="0">27</tspan></text>
-      <text id="_25" data-name="25" class="cls-8" transform="translate(261 308)"><tspan x="-17.792" y="0">25</tspan></text>
+      <text id="_27" data-name="27" class="cls-8" transform="translate(212 308)"><tspan x="-18.304" y="0">27</tspan></text>
+      <text id="_25" data-name="25" class="cls-8" transform="translate(261 308)"><tspan x="-18.304" y="0">25</tspan></text>
       <text id="hrs" class="cls-9" transform="translate(212 307)"><tspan x="0" y="0">hrs</tspan></text>
       <text id="min" class="cls-9" transform="translate(261 307)"><tspan x="0" y="0">min</tspan></text>
     </g>
     <g id="Group_66" data-name="Group 66" transform="translate(56 89)">
-      <text id="_02" data-name="02" class="cls-8" transform="translate(212 308)"><tspan x="-17.792" y="0">02</tspan></text>
-      <text id="_30" data-name="30" class="cls-8" transform="translate(261 308)"><tspan x="-17.792" y="0">30</tspan></text>
+      <text id="_02" data-name="02" class="cls-8" transform="translate(212 308)"><tspan x="-18.304" y="0">02</tspan></text>
+      <text id="_30" data-name="30" class="cls-8" transform="translate(261 308)"><tspan x="-18.304" y="0">30</tspan></text>
       <text id="hrs-2" data-name="hrs" class="cls-9" transform="translate(212 307)"><tspan x="0" y="0">hrs</tspan></text>
       <text id="min-2" data-name="min" class="cls-9" transform="translate(261 307)"><tspan x="0" y="0">min</tspan></text>
     </g>
@@ -198,8 +198,8 @@
       <text id="_14.03.2019." data-name="14.03.2019." class="cls-7" transform="translate(32 490)"><tspan x="0" y="0">14.03.2019.</tspan></text>
       <text id="_15:30-14:00" data-name="15:30-14:00" class="cls-10" transform="translate(117 490)"><tspan x="0" y="0">15:30-14:00</tspan></text>
       <g id="Group_72" data-name="Group 72" transform="translate(40 183)">
-        <text id="_0" data-name="0" class="cls-8" transform="translate(212 308)"><tspan x="-8.896" y="0">0</tspan></text>
-        <text id="_30-2" data-name="30" class="cls-8" transform="translate(261 308)"><tspan x="-17.792" y="0">30</tspan></text>
+        <text id="_0" data-name="0" class="cls-8" transform="translate(212 308)"><tspan x="-9.152" y="0">0</tspan></text>
+        <text id="_30-2" data-name="30" class="cls-8" transform="translate(261 308)"><tspan x="-18.304" y="0">30</tspan></text>
         <text id="hrs-3" data-name="hrs" class="cls-9" transform="translate(212 307)"><tspan x="0" y="0">hrs</tspan></text>
         <text id="min-3" data-name="min" class="cls-9" transform="translate(261 307)"><tspan x="0" y="0">min</tspan></text>
       </g>
@@ -209,8 +209,8 @@
       <text id="_14.03.2019.-2" data-name="14.03.2019." class="cls-7" transform="translate(32 490)"><tspan x="0" y="0">14.03.2019.</tspan></text>
       <text id="_12:30-13:00" data-name="12:30-13:00" class="cls-10" transform="translate(117 490)"><tspan x="0" y="0">12:30-13:00</tspan></text>
       <g id="Group_72-2" data-name="Group 72" transform="translate(40 183)">
-        <text id="_0-2" data-name="0" class="cls-8" transform="translate(212 308)"><tspan x="-8.896" y="0">0</tspan></text>
-        <text id="_30-3" data-name="30" class="cls-8" transform="translate(261 308)"><tspan x="-17.792" y="0">30</tspan></text>
+        <text id="_0-2" data-name="0" class="cls-8" transform="translate(212 308)"><tspan x="-9.152" y="0">0</tspan></text>
+        <text id="_30-3" data-name="30" class="cls-8" transform="translate(261 308)"><tspan x="-18.304" y="0">30</tspan></text>
         <text id="hrs-4" data-name="hrs" class="cls-9" transform="translate(212 307)"><tspan x="0" y="0">hrs</tspan></text>
         <text id="min-4" data-name="min" class="cls-9" transform="translate(261 307)"><tspan x="0" y="0">min</tspan></text>
       </g>
@@ -220,8 +220,8 @@
       <text id="_14.03.2019.-3" data-name="14.03.2019." class="cls-7" transform="translate(32 490)"><tspan x="0" y="0">14.03.2019.</tspan></text>
       <text id="_11:30-13:00" data-name="11:30-13:00" class="cls-10" transform="translate(117 490)"><tspan x="0" y="0">11:30-13:00</tspan></text>
       <g id="Group_72-3" data-name="Group 72" transform="translate(40 183)">
-        <text id="_0-3" data-name="0" class="cls-8" transform="translate(212 308)"><tspan x="-8.896" y="0">0</tspan></text>
-        <text id="_30-4" data-name="30" class="cls-8" transform="translate(261 308)"><tspan x="-17.792" y="0">30</tspan></text>
+        <text id="_0-3" data-name="0" class="cls-8" transform="translate(212 308)"><tspan x="-9.152" y="0">0</tspan></text>
+        <text id="_30-4" data-name="30" class="cls-8" transform="translate(261 308)"><tspan x="-18.304" y="0">30</tspan></text>
         <text id="hrs-5" data-name="hrs" class="cls-9" transform="translate(212 307)"><tspan x="0" y="0">hrs</tspan></text>
         <text id="min-5" data-name="min" class="cls-9" transform="translate(261 307)"><tspan x="0" y="0">min</tspan></text>
       </g>
@@ -231,8 +231,8 @@
       <text id="_14.03.2019.-4" data-name="14.03.2019." class="cls-7" transform="translate(32 490)"><tspan x="0" y="0">14.03.2019.</tspan></text>
       <text id="_10:00-10:30" data-name="10:00-10:30" class="cls-10" transform="translate(117 490)"><tspan x="0" y="0">10:00-10:30</tspan></text>
       <g id="Group_72-4" data-name="Group 72" transform="translate(40 183)">
-        <text id="_0-4" data-name="0" class="cls-8" transform="translate(212 308)"><tspan x="-8.896" y="0">0</tspan></text>
-        <text id="_30-5" data-name="30" class="cls-8" transform="translate(261 308)"><tspan x="-17.792" y="0">30</tspan></text>
+        <text id="_0-4" data-name="0" class="cls-8" transform="translate(212 308)"><tspan x="-9.152" y="0">0</tspan></text>
+        <text id="_30-5" data-name="30" class="cls-8" transform="translate(261 308)"><tspan x="-18.304" y="0">30</tspan></text>
         <text id="hrs-6" data-name="hrs" class="cls-9" transform="translate(212 307)"><tspan x="0" y="0">hrs</tspan></text>
         <text id="min-6" data-name="min" class="cls-9" transform="translate(261 307)"><tspan x="0" y="0">min</tspan></text>
       </g>
@@ -252,8 +252,8 @@
       <text id="_14.03.2019.-5" data-name="14.03.2019." class="cls-7" transform="translate(32 490)"><tspan x="0" y="0">14.03.2019.</tspan></text>
       <text id="_09:20_09:50" data-name="09:20–09:50" class="cls-13" transform="translate(117 490)"><tspan x="0" y="0">09:20–09:50</tspan></text>
       <g id="Group_72-5" data-name="Group 72" transform="translate(40 183)">
-        <text id="_0-5" data-name="0" class="cls-14" transform="translate(212 308)"><tspan x="-8.896" y="0">0</tspan></text>
-        <text id="_30-6" data-name="30" class="cls-14" transform="translate(261 308)"><tspan x="-17.792" y="0">30</tspan></text>
+        <text id="_0-5" data-name="0" class="cls-14" transform="translate(212 308)"><tspan x="-9.152" y="0">0</tspan></text>
+        <text id="_30-6" data-name="30" class="cls-14" transform="translate(261 308)"><tspan x="-18.304" y="0">30</tspan></text>
         <text id="hrs-7" data-name="hrs" class="cls-9" transform="translate(212 307)"><tspan x="0" y="0">hrs</tspan></text>
         <text id="min-7" data-name="min" class="cls-9" transform="translate(261 307)"><tspan x="0" y="0">min</tspan></text>
       </g>
@@ -289,7 +289,7 @@
           <rect id="Rectangle_120" data-name="Rectangle 120" class="cls-21" width="7" height="1" transform="translate(7 3) rotate(90)"/>
           <rect id="Rectangle_119" data-name="Rectangle 119" class="cls-21" width="7" height="1" transform="translate(3 6)"/>
         </g>
-        <text id="The_Track" data-name="The Track" class="cls-22" transform="translate(196 19)"><tspan x="-29.269" y="0">The Track</tspan></text>
+        <text id="The_Track" data-name="The Track" class="cls-22" transform="translate(196 19)"><tspan x="-29.679" y="0">The Track</tspan></text>
       </g>
     </g>
   </g>

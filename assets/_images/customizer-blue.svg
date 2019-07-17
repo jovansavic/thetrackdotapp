@@ -45,7 +45,7 @@
         fill: #3961e8;
       }
 
-      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-8, .cls-9 {
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-8, .cls-9 {
         font-size: 16px;
       }
 
@@ -63,10 +63,6 @@
 
       .cls-13 {
         fill: #ff5a5a;
-      }
-
-      .cls-15 {
-        font-family: FontAwesome5Pro-Regular, "Font Awesome 5 Pro";
       }
 
       .cls-16 {
@@ -107,7 +103,7 @@
       .cls-24 {
         fill: #4d4c4d;
         font-size: 13px;
-        font-family: HelveticaNeue-Medium, Helvetica Neue;
+        font-family: NotoSans-Medium, Noto Sans;
       }
 
       .cls-25 {
@@ -185,7 +181,7 @@
       <text id="_FFFFFF-2" data-name="#FFFFFF" class="cls-14" transform="translate(328 529)"><tspan x="-63.232" y="0">#FFFFFF</tspan></text>
       <g id="Group_88" data-name="Group 88">
         <text id="Customize_your_app" data-name="Customize your app" class="cls-9" transform="translate(52 149)"><tspan x="0" y="0">Customize your app</tspan></text>
-        <text id="_" data-name="" class="cls-15" transform="translate(32 150)"><tspan x="0" y="0"></tspan></text>
+        <path id="Path_91" data-name="Path 91" class="cls-15" d="M7.184.809,7.8.191a.375.375,0,0,0,0-.53L2.955-5.187h10.67A.375.375,0,0,0,14-5.562v-.875a.375.375,0,0,0-.375-.375H2.955L7.8-11.66a.375.375,0,0,0,0-.53l-.619-.619a.375.375,0,0,0-.53,0L.11-6.265a.375.375,0,0,0,0,.53L6.654.809A.375.375,0,0,0,7.184.809Z" transform="translate(32 150)"/>
         <text id="Change_theme_colors_of_your_app_to_suit_your_style." data-name="Change theme colors of your app to suit your style." class="cls-16" transform="translate(52 153)"><tspan x="0" y="11">Change theme colors of your app to suit your style.</tspan></text>
       </g>
     </g>
@@ -220,7 +216,7 @@
           <rect id="Rectangle_120" data-name="Rectangle 120" class="cls-23" width="7" height="1" transform="translate(7 3) rotate(90)"/>
           <rect id="Rectangle_119" data-name="Rectangle 119" class="cls-23" width="7" height="1" transform="translate(3 6)"/>
         </g>
-        <text id="The_Track" data-name="The Track" class="cls-24" transform="translate(196 19)"><tspan x="-29.269" y="0">The Track</tspan></text>
+        <text id="The_Track" data-name="The Track" class="cls-24" transform="translate(196 19)"><tspan x="-29.679" y="0">The Track</tspan></text>
       </g>
     </g>
   </g>

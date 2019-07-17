@@ -32,12 +32,12 @@ Your team can easily see the estimated number of hours for each stage of a proje
 - Keep track of their billable hours so they can invoice clients and analyze whether they’re profitable
 
 
->In short, by tracking time, freelancers can:
->
->- Bill clients accurately
->- Better evaluate project costs
->- Improve productivity
->- Understand work limitations
+#### In short, by tracking time, freelancers can:
+
+- Bill clients accurately
+- Better evaluate project costs
+- Improve productivity
+- Understand work limitations
 
 
 
@@ -67,6 +67,11 @@ Your team can easily see the estimated number of hours for each stage of a proje
 
 Even businesses who don’t work with clients, but are interested in the overall efficacy, track time to help asses their productivity levels.Time Tracking App will help employees evaluate how they spend their working hours, and help motivate them to be more productive and better organize their time.
 
->Some time tracking apps with these benefits are: Clockify, Toggl, Harvest, Hubstaff, Sheets, Rescue Time, Time Doctor etc. 
+#### If you need a personal time tracker [The Track] will be a great choice
+
+![The Track - Time Tracker](https://paper-attachments.dropbox.com/s_B5A2778E9949FD2B8B772FAD9E390FBE5888B730B87BCEE1F72125FEFD855E90_1562938432242_image.png)
+
+
+[The Track]: https://thetrack.app/ 
 
 

@@ -31,7 +31,7 @@ const Subscribe = {
     $('.feedback').remove();
     const $message = '<aside class="feedback success text-center ' +
       'pl-2 pr-2">\n' +
-      '\t\t\t\tYeah, you did it!\n' +
+      '\t\t\t\tYeah, you did it!\n' + '<a href="/personal-time-tracker-download" class="feedback success">Download The Track Now!</a>'+
       '\t\t\t</aside>';
     $('#form-wrap').prepend($message);
     sessionStorage.setItem('isSubscribed', JSON.stringify(true));
@@ -67,7 +67,7 @@ const Subscribe = {
   saveEmail: function() {
     return firebase.firestore()
             .collection('emails')
-            .add( {email: this.getEmailValue()} );
+            .add( {email: this.getEmailValue(), source: window.location.href} );
   },
   init: function() {
     this.formListener();

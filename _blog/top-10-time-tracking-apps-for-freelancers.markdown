@@ -22,7 +22,7 @@ With those apps you will boost your productivity, you will stay focused and your
 Firstly, some of them prioritize individual freelancers, and some of them are made with remoted teams. You can find free ones, and in the other hand you will pay for some versions.  So, let’s begin!
 
 ##### Top 10 Time Tracking Apps for Freelancers:
-1. [Everhour (Web App and Browser Extension)]{:target="_blank"}
+1. [The Track]
 2. [Due Time Tracking]{:target="_blank"}
 3. [Calendar (Desktop and Mobile Platform)]{:target="_blank"}
 4. [RescueTime]{:target="_blank"}
@@ -34,8 +34,36 @@ Firstly, some of them prioritize individual freelancers, and some of them are ma
 10. [OfficeTime]{:target="_blank"}
 
 
-### 1. Everhour (Web App and Browser Extension) 
-  If you have a team, this is the right app for you. It makes monitoring easier and you can check and manage team availability. It also syncs all the productivity apps you use and all the projects you have. You and your team can enter how many hours you’re available for the week and track who’s underworking or overworking. You can get the payable version of this app.
+### 1. [The Track]
+
+![](https://paper-attachments.dropbox.com/s_B5A2778E9949FD2B8B772FAD9E390FBE5888B730B87BCEE1F72125FEFD855E90_1562938432242_image.png)
+
+The Track is Time Tracker for personal projects. You won't forget again to start or stop tracking your time. It has an amazing feature that will remind you to start tracking time if you are using specified software. Also, it will remind you to stop tracking if you start using some of the specified distractions like Facebook, Twitter, etc... 
+The Track is customizable, so you can create your own style by typing CSS values in Settings > Customize.
+
+##### FEATURES
+
+- Reminds you when to stop tracking 
+- Reminds you when to start tracking
+- Auto Stops if you are not active (Also when you Shut Down, Sleep, Log Out, etc...)
+- It's Customizable. You can customize it just by typing CSS values, it will update instant on all devices
+- Multiple platforms
+
+##### PRICING
+TWO MONTHS FOR FREE! Then it's only $7.86/month, and that is 0.26$ per day! 
+
+##### PROS:
+  - Simple interface, easy transition from Toggl
+  - Multiple platforms, visually appealing
+  - Super convenient
+  - Reminds you when to stop tracking 
+  - Reminds you when to start tracking
+  - Auto Stops if you are not active (Also when you Shut Down, Sleep, Log Out, etc...)
+  - It's Customizable. You can customize it just by typing CSS values, it will update instant on all devices
+  
+##### CONS:
+  - New into market
+ 
 
 ### 2. Due Time Tracking
   This time tracking app for freelancers is free and calculates your productivity by detecting idleness. You can set your work timer and it will automatically stop when you’re no longer working. With this app you can also manage your clients data such as their name, address, currency or hourly rate.
@@ -66,7 +94,7 @@ Firstly, some of them prioritize individual freelancers, and some of them are ma
  
 
 
-[Everhour (Web App and Browser Extension)]: https://everhour.com/
+[The Track]: https://thetrack.app/ 
 [Due Time Tracking]:  https://due.com/time/
 [Calendar (Desktop and Mobile Platform)]: https://talk.jekyllrb.com/
 [RescueTime]: /{{site.download_url}}
