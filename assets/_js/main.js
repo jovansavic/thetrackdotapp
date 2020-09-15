@@ -49,8 +49,8 @@ const Main = {
     $(window).on('load', function() {
       that.headerShrink();
       that.headerToggle();
-      that.featureImages();
-      that.customizerImages();
+      // that.featureImages();
+      // that.customizerImages();
     });
   },
 };

@@ -2,9 +2,16 @@
   width: 100%
   padding-top: 4rem
   padding-bottom: 4rem
+  //background: #FCFCFC
+  &.what-is
+    text-align: center
+    .wrap
+      max-width: 720px
+
   .title, .paragraph
-    color: $dark-color
+    color: #333
     margin: 0
+    //max-width: 720px
   .title
     font-family: $primary-font
     font-size: 3rem
@@ -12,8 +19,7 @@
     @media(max-width: $small-screen)
       font-size: 2rem
   .paragraph
-    opacity: .7
-    font-weight: 500
+    font-weight: 400
     margin-top: 1.5rem
     font-size: 1.2rem
     font-family: $secondary-font

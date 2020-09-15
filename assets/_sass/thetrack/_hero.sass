@@ -3,40 +3,48 @@
   height: 90vh
   padding-top: 10vh
 
-  background: url("/assets/images/hero-shape.svg")
+  //background: url("/assets/images/hero-shape.svg")
   background-repeat: no-repeat
   background-size: cover
   background-position: center
 
+  background: #F2F2F7
   text-align: center
-
 
   .hero-title
     padding-top: 5%
-    //font-size: 1rem
+    font-size: 5rem
+    color: #24293C
     font-weight: 700
-    color: white
+    //color: white
     font-family: $primary-font
-    max-width: 580px
+    max-width: 800px
     margin: auto
     margin-bottom: 20px
     @media (max-width: $small-screen)
       padding-top: 15%
+      font-size: 2rem
     @media (max-width: $mini-screen)
       padding-top: 7%
 
   .hero-subtitle
     font-family: $primary-font
-    font-size: 1rem
-    color: white
-    max-width: 400px
+    font-size: 1.2rem
+    color: #999
+    max-width: 640px
     margin: auto
     margin-bottom: 20px
-    opacity: .8
+    opacity: 1
+    @media (max-width: $small-screen)
+      font-size: 1rem
 
   .hero-btn
     width: 100%
-    max-width: 300px
+    max-width: 480px
     box-sizing: border-box
+    color: white
+    background: #2575FC
+    font-weight: 600
+    margin-top: 2rem
 
 
